@@ -1,3 +1,6 @@
+Ron Qiao  
+May 2019  
+
 # __Country Music Lyric Analysis__
 #### Analyzing song lyrics with natural language processing and Non-negative Matrix Factorization (NMF) / Correlation Explanation (CorEx) topic models  
 <hr>  
